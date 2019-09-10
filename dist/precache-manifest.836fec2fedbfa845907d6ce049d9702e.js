@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/css/app.ea13612d.css"
   },
   {
-    "revision": "c333c14e859a56c153a2f514c9d8324c",
-    "url": "/restaurant-vue-spa/data/menus.json"
+    "revision": "438b243cd9ef068aad8511b5c2a69e0d",
+    "url": "/restaurant-vue-spa/data/wines.json"
   },
   {
     "revision": "2c567b2c5063f4ea964706ad6e83cbb2",
@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/img/home.0b24ea7a.png"
   },
   {
-    "revision": "d26871e8149b5759f814fd3c7a4f784b",
-    "url": "/restaurant-vue-spa/fonts/Roboto-Light.d26871e8.woff2"
-  },
-  {
     "revision": "ad538a69b0e8615ed0419c4529344ffc",
     "url": "/restaurant-vue-spa/fonts/Roboto-Thin.ad538a69.woff2"
+  },
+  {
+    "revision": "d26871e8149b5759f814fd3c7a4f784b",
+    "url": "/restaurant-vue-spa/fonts/Roboto-Light.d26871e8.woff2"
   },
   {
     "revision": "73f0a88bbca1bec19fb1303c689d04c6",
@@ -144,12 +144,12 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "35b07eb2f8711ae08d1f58c043880930",
-    "url": "/restaurant-vue-spa/fonts/Roboto-Regular.35b07eb2.woff"
-  },
-  {
     "revision": "1d6594826615607f6dc860bb49258acb",
     "url": "/restaurant-vue-spa/fonts/Roboto-Medium.1d659482.woff"
+  },
+  {
+    "revision": "35b07eb2f8711ae08d1f58c043880930",
+    "url": "/restaurant-vue-spa/fonts/Roboto-Regular.35b07eb2.woff"
   },
   {
     "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
@@ -164,12 +164,12 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/fonts/Roboto-ThinItalic.8a96edbb.woff"
   },
   {
-    "revision": "13efe6cbc10b97144a28310ebdeda594",
-    "url": "/restaurant-vue-spa/fonts/Roboto-LightItalic.13efe6cb.woff"
-  },
-  {
     "revision": "f5902d5ef961717ed263902fc429e6ae",
     "url": "/restaurant-vue-spa/fonts/Roboto-RegularItalic.f5902d5e.woff"
+  },
+  {
+    "revision": "13efe6cbc10b97144a28310ebdeda594",
+    "url": "/restaurant-vue-spa/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
     "revision": "83e114c316fcc3f23f524ec3e1c65984",
@@ -188,8 +188,8 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/index.html"
   },
   {
-    "revision": "438b243cd9ef068aad8511b5c2a69e0d",
-    "url": "/restaurant-vue-spa/data/wines.json"
+    "revision": "c333c14e859a56c153a2f514c9d8324c",
+    "url": "/restaurant-vue-spa/data/menus.json"
   },
   {
     "revision": "965a574973765dc7afcf",
