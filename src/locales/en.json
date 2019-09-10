@@ -1,0 +1,19 @@
+{
+  "home": {
+    "presentation": {
+      "title": "presentation",
+      "content": "Our gourmet restaurant (1 Michelin star), located a few steps from the Bourges Cathedral, occupies a beautiful mansion of 1844, surrounded by gardens, in the military district of the nineteenth century.<br/>It is in this environment that we will have great pleasure to welcome you. We wanted a warm, modern atmosphere. Thus, our dining room, fully glazed, offers a view of our garden. Two comfortable lounges welcome you for an aperitif or a coffee and a private lounge can also be reserved for the duration of the meal.<br/>In fine weather, you can enjoy your meals on the terrace, in the calm of our garden.<br/>The Circle is above all a story of friendship between two chefs, Pascal Chaupitre and Christophe Lot. A conviviality that the chefs will transmit to you to a gastronomic and inventive cuisine, full of surprises.<br/>So, be sure that our team will always be there to ensure you have the best time possible."
+    }
+  },
+  "menu": "",
+  "contact": {
+    "tel": {
+      "text": "tel to",
+      "contactAddress": "tel:0000000000"
+    },
+    "mail": {
+      "text": "mail to",
+      "contactAddress": "mailto:restaurant@restaurant.net"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "home": {
+    "presentation": {
+      "title": "présentation",
+      "content": "Notre restaurant gastronomique (1 étoile au guide Michelin), situé à quelques pas de la Cathédrale de Bourges, occupe une très belle maison bourgeoise de 1844, entourée de jardins, dans l’ancien quartier militaire du XIXe siècle.C’est dans cet environnement calme que nous aurons grand plaisir à vous accueillir. Nous avons voulu un cadre chaleureux, empreint d’une certaine modernité.  Ainsi, notre salle de restaurant, entièrement vitrée, vous offre une vue sur notre jardin. Deux salons confortables vous accueillent le temps d’un apéritif ou d’un café et un salon privé peut vous être réservé également pour la durée du repas.<br/>Aux beaux jours, vous pourrez profiter de votre repas servi en terrasse, dans le calme de notre jardin.<br/>Le Cercle, c’est avant tout une histoire d’amitié entre deux chefs, Pascal Chaupitre et Christophe Lot. Une convivialité que les chefs sauront vous transmettre à travers une cuisine gastronomique et inventive, pleine de surprises.<br/>Ainsi, soyez sûr que notre équipe sera toujours à votre écoute et aux petits soins afin que vous passiez le meilleur moment possible."
+    }
+  },
+  "menu": {},
+  "contact": {
+    "tel": {
+      "text": "Tél du",
+      "contactAddress": "tel:+33000000000"
+    },
+    "mail": {
+      "text": "Mail au",
+      "contactAddress": "mailto:restaurant@restaurant.net"
+    }
+  }
+}
