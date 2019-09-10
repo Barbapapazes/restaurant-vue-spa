@@ -1,0 +1,76 @@
+{
+  "icons": [
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_512x512.e00631769c97939ab4134047822b2510.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_192x192.43abea73fba7f1b2fcff0717ef8e1931.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_144x144.b01670d1c4bcddf03589f14ec371671f.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_96x96.da2ef7f33bfdc681911586164a09e824.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_72x72.7e9b7382ea2c5f429bd6ec6f94930662.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_48x48.9fffbad19c91c600f8a616a57de9c5b8.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/android/icon_36x36.0e2218f41b817d459d4d4f264c2e0d3b.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/ios/icon_1024x1024.f7475de86f7d8e55b85e7bcf87d6b36c.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/ios/icon_1024x1024.f7475de86f7d8e55b85e7bcf87d6b36c.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/ios/icon_180x180.cd3858eac75aa8440187667fb1e8a261.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/ios/icon_167x167.6f2bc815ff44c075cf2b223d77a6bc7a.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/ios/icon_152x152.f24bee6b5cff4ad6aabe3635386e163a.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/restaurant-vue-spa/icons/ios/icon_120x120.9c67e6221bb8b44d2bbd7b8551bb5a90.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }
+  ],
+  "name": "Restaurant",
+  "short_name": "Restaurant",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "My awesome Progressive Web App!",
+  "background_color": "#aa3300"
+}
