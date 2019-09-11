@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/js/chunk-vendors.697fb261.js"
   },
   {
-    "revision": "965a574973765dc7afcf",
-    "url": "/restaurant-vue-spa/js/Menu.c9a6b388.js"
+    "revision": "e1c920bd06c32f697de3",
+    "url": "/restaurant-vue-spa/js/Menu.c592e29a.js"
   },
   {
     "revision": "0d7be97bef01ea8ee6f0",
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/js/Wines.ef6694fc.js"
   },
   {
-    "revision": "a6d5e50bae8bff700d2e",
-    "url": "/restaurant-vue-spa/js/app.825b57dd.js"
+    "revision": "dae40cd0a0ae0ca68930",
+    "url": "/restaurant-vue-spa/js/app.1696ee14.js"
   },
   {
     "revision": "4357beb823a5f8d65c260f045d9e019a",
     "url": "/restaurant-vue-spa/fonts/Roboto-RegularItalic.4357beb8.woff2"
   },
   {
-    "revision": "a6d5e50bae8bff700d2e",
+    "revision": "dae40cd0a0ae0ca68930",
     "url": "/restaurant-vue-spa/css/app.ea13612d.css"
   },
   {
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/js/Contact.ff5cbfd3.js"
   },
   {
-    "revision": "b2d3d905281c9bf60a380f9736b38c0a",
-    "url": "/restaurant-vue-spa/data/dishes.json"
+    "revision": "c333c14e859a56c153a2f514c9d8324c",
+    "url": "/restaurant-vue-spa/data/menus.json"
   },
   {
     "revision": "59eb3601394dd87f30f82433fb39dd94",
@@ -144,10 +144,6 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
-    "revision": "1d6594826615607f6dc860bb49258acb",
-    "url": "/restaurant-vue-spa/fonts/Roboto-Medium.1d659482.woff"
-  },
-  {
     "revision": "35b07eb2f8711ae08d1f58c043880930",
     "url": "/restaurant-vue-spa/fonts/Roboto-Regular.35b07eb2.woff"
   },
@@ -156,8 +152,16 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/fonts/Roboto-Bold.50d75e48.woff"
   },
   {
+    "revision": "1d6594826615607f6dc860bb49258acb",
+    "url": "/restaurant-vue-spa/fonts/Roboto-Medium.1d659482.woff"
+  },
+  {
     "revision": "313a65630d341645c13e4f2a0364381d",
     "url": "/restaurant-vue-spa/fonts/Roboto-Black.313a6563.woff"
+  },
+  {
+    "revision": "13efe6cbc10b97144a28310ebdeda594",
+    "url": "/restaurant-vue-spa/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
     "revision": "8a96edbbcd9a6991d79371aed0b0288e",
@@ -166,10 +170,6 @@ self.__precacheManifest = [
   {
     "revision": "f5902d5ef961717ed263902fc429e6ae",
     "url": "/restaurant-vue-spa/fonts/Roboto-RegularItalic.f5902d5e.woff"
-  },
-  {
-    "revision": "13efe6cbc10b97144a28310ebdeda594",
-    "url": "/restaurant-vue-spa/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
     "revision": "83e114c316fcc3f23f524ec3e1c65984",
@@ -184,15 +184,15 @@ self.__precacheManifest = [
     "url": "/restaurant-vue-spa/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
-    "revision": "2dbdcd6778bad8789089850fc08d7bc3",
+    "revision": "84426ad111195b64d0b30c970907ed6f",
     "url": "/restaurant-vue-spa/index.html"
   },
   {
-    "revision": "c333c14e859a56c153a2f514c9d8324c",
-    "url": "/restaurant-vue-spa/data/menus.json"
+    "revision": "b2d3d905281c9bf60a380f9736b38c0a",
+    "url": "/restaurant-vue-spa/data/dishes.json"
   },
   {
-    "revision": "965a574973765dc7afcf",
+    "revision": "e1c920bd06c32f697de3",
     "url": "/restaurant-vue-spa/css/Menu.26257797.css"
   },
   {
