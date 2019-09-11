@@ -8,7 +8,7 @@
             v-toolbar(flat).primary.pa-0
               v-row(align="center", justify="space-around").ma-0
                   v-col(v-for="(tab, index) in tabs", :key="tab.text", align="center").pa-0
-                    v-btn(depressed, large, @click="onboarding=index, menuComponent=tab.text").primary.text--uppercase.font-weight-light.px-3
+                    v-btn(depressed, large, @click="onboarding=index, menuComponent=tab.name").primary.text--uppercase.font-weight-light.px-3
                       v-icon(left) mdi-{{tab.icon}}
                       span {{ $t(`tabs[${index}].text`) }}
         v-col(cols="12" md="5", align="end", v-if="$vuetify.breakpoint.xsOnly")
@@ -33,8 +33,8 @@
                           v-row(align="center", justify="center").fill-height
                             v-progress-circular(indeterminate, x-large).primary--text
         v-col(cols="12", md="8")
-            keep-alive
-              component(:is="menuComponent")
+          keep-alive
+            component(:is="menuComponent")
 </template>
 
 <i18n>

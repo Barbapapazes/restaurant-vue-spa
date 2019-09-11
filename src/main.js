@@ -8,13 +8,13 @@ import '@mdi/font/css/materialdesignicons.css'
 import store from './store'
 import i18n from './i18n'
 
-Vue.component('menus', () =>
+Vue.component('MenuMenus', () =>
   import(/* webpackChunkName: "Menus" */ '@/views/menu/MenuMenus')
 )
-Vue.component('wines', () =>
+Vue.component('MenuWines', () =>
   import(/* webpackChunkName: "Wines" */ '@/views/menu/MenuWines')
 )
-Vue.component('dishes', () =>
+Vue.component('MenuDishes', () =>
   import(/* webpackChunkName: "Dishes" */ '@/views/menu/MenuDishes')
 )
 
