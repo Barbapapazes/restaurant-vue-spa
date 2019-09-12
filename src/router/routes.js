@@ -16,5 +16,9 @@ export default [
     name: 'Contact',
     component: () =>
       import(/* webpackChunkName: "Contact" */ '@/views/Contact.vue')
+  },
+  {
+    path: '/**',
+    component: () => import(/* webpackChunkName: "404" */ '@/views/404.vue')
   }
 ]

@@ -9,7 +9,7 @@
                   v-col(align="center", cols="12", sm="6", v-for="element in contact", :key="element.href").pa-0
                     v-btn(text, :href="$t(`contact.${element.name}.contactAddress`)", :title="element.title")
                       v-icon(left) mdi-{{element.icon}}
-                      span {{ $t(`contact.${element.name}.text`) }} to Restaurant
+                      span {{ $t(`contact.${element.name}.text`) }} Restaurant
             v-card(elevation="6").secondary.pa-2.mt-6
               v-row.primary.mx-0
                 v-col(align="center", v-for="(link, index) in socialNetworks", :key="link.title").pa-0
