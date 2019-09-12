@@ -1,0 +1,10 @@
+{
+    "name": "wines",
+    "data": [{
+            "content": ["Our sommelier offers a selection of all regions of France and some foreign vineyards. In total it is more than 500 references to discover, including some old vintages. Do not hesitate to ask for personalized advice."]
+        },
+        {
+            "title": "wine list"
+        }
+    ]
+}

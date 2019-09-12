@@ -1,0 +1,43 @@
+{
+  "name": "dishes",
+  "data": [
+    {
+      "title": "nos entrées",
+      "content": [
+        "Foie gras cuit au sel, pommes de Saint-Martin – Raviole de foie gras, persil/pois chiches/sésame",
+        "Tomates Bio locales, chartreuse verte/vanille/mélisse – Focaccia frite, tomates confites/huile de thym citron",
+        "Grosse gambas grillée, taboulé de pain/fenouil/cardamome – Bisque glacée, gaspacho/courgettes"
+      ],
+      "available": true
+    },
+    {
+      "title": "nos poissons",
+      "content": [
+        "Rouget Barbet frits en écailles, betteraves/poivron/chorizo – Gravlax, cocos de Paimpol/vinaigrette aux foies",
+        "Lotte cuite sur l’arête, légumes primeurs/algues/citron confit – Joue de lotte à la citronnelle, lait de coco/roquette"
+      ],
+      "available": true
+    },
+    {
+      "title": "nos viandes",
+      "content": [
+        "Quasi de veau rôti, sauge/aubergines/jus amaretto – Rouelle de tête de veau, sauce tonnato/câpres",
+        "Porc fermier à l’estragon, gnocchis de pomme de terre/abricots – Burger, pain de banane/parmesan/pastèque"
+      ],
+      "available": true
+    },
+    {
+      "title": "Sélection de fromages affinés",
+      "available": true
+    },
+    {
+      "title": "nos desserts",
+      "content": [
+        "Fruits rouges à l’eau de tomate, sorbet bloody mary/basilic/cèleri – Framboises au jus de pomme, oseille/sabayon huile d’olive",
+        "Melon et pastèque, chimichurri/cacahuètes/épices douces – Pastèque au campari, feta/crumble au thym",
+        "Chocolat et menthe fraîche, pistaches/thé vert/meringue – Tapioca soufflé, lait/cacao/caramel"
+      ],
+      "available": true
+    }
+  ]
+}

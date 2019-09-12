@@ -24,7 +24,7 @@ export default {
   methods: {
     fetchData(name) {
       this.loading = true
-      HTTP.get(`/data/${name}.json`)
+      HTTP.get(`/data/${this.$i18n.locale}/${this.$i18n.locale}-${name}.json`)
         .then(response => {
           this.loading = false
           this.fileData = response.data.data

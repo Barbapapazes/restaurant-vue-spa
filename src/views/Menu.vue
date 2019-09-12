@@ -97,13 +97,19 @@ export default {
         icon: 'silverware',
         name: 'MenuDishes'
       }
-    ]
+    ],
+    locale: null
   }),
   computed: {
     urls() {
       return this.$store.getters
         .urlsPictures('menu')
         .sort((a, b) => a.menu - b.menu)
+    }
+  },
+  methods: {
+    forceUpdate() {
+      this.$forceUpdate()
     }
   }
 }

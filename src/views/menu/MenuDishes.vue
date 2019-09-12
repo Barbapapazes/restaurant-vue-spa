@@ -1,5 +1,5 @@
 <template lang="pug">
-  .dishes
+  .dishes 
     h1.title.primary--text.font-weight-light.mt-O.text-capitalize dishes
     v-progress-circular(v-if="loading", indeterminate, x-large).primary--text
     v-col(cols='12', v-else, v-for="element in fileData", :key="element.title")
@@ -24,7 +24,7 @@ export default {
   methods: {
     fetchData(name) {
       this.loading = true
-      HTTP.get(`/data/${name}.json`)
+      HTTP.get(`/data/${this.$i18n.locale}/${this.$i18n.locale}-${name}.json`)
         .then(response => {
           this.loading = false
           this.fileData = response.data.data
