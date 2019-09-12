@@ -7,6 +7,7 @@
   },
   "menu": {
     "dishes": {
+      "title": "dishes",
       "data": [
         {
           "title": "our starters",
@@ -50,6 +51,7 @@
       ]
     },
     "menus": {
+      "title": "menus",
       "data": [
         {
           "title": "menu club",
@@ -96,6 +98,7 @@
       ]
     },
     "wines": {
+      "title": "wines",
       "data": [
         {
           "content": [

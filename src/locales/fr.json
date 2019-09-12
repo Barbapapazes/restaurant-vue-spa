@@ -7,6 +7,7 @@
   },
   "menu": {
     "dishes": {
+      "title": "plats",
       "data": [
         {
           "title": "nos entrées",
@@ -49,6 +50,7 @@
       ]
     },
     "menus": {
+      "title": "menus",
       "data": [
         {
           "title": "menu club",
@@ -95,10 +97,11 @@
       ]
     },
     "wines": {
+      "title": "vins",
       "data": [
         {
           "content": [
-            "Notre sommelier Stéphane Morand, vous propose une sélection de toutes les régions de France et de certains vignobles étrangers. Au total c’est plus de 500 références à découvrir, dont certains vieux millésimes. N’hésitez pas à le solliciter pour un conseil personnalisé."
+            "Notre sommelier vous propose une sélection de toutes les régions de France et de certains vignobles étrangers. Au total c’est plus de 500 références à découvrir, dont certains vieux millésimes. N’hésitez pas à le solliciter pour un conseil personnalisé."
           ]
         },
         {
