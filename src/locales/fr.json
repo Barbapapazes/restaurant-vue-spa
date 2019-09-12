@@ -53,42 +53,42 @@
         {
           "title": "menu club",
           "content": [
-            "First course and second course or One course and Dessert (to choose in the « Initiation menu »). Every day for lunch, except Saturday and bank holidays."
+            "Entrée/plat OU plat/dessert à choisir dans la carte Initiation. Pour le déjeuner uniquement, sauf samedi et jours fériés."
           ],
           "available": true
         },
         {
           "title": "cercle initiation",
           "content": [
-            "One starter, one main course, one dessert chosen from the Main Menu ( additional charge for cheeses) – All dishes are served in one version only"
+            "Uniquement le vendredi à dîner (sauf jours fériés) – Only Friday for dinner (except bank holidays) - Une entrée au choix, un plat au choix, un dessert au choix (sélection de fromages en supplément) – Tous les plats sont servis en une seule version"
           ],
           "available": true
         },
         {
           "title": "cercle gourmand",
           "content": [
-            "One starter, one main course, one dessert chosen from the Main Menu ( additional charge for cheeses) – All dishes are served in two versions"
+            "Une entrée au choix, un plat au choix, un dessert au choix,  à choisir dans la carte, (sélection de fromages en supplément) – Tous les plats sont servis en deux versions"
           ],
           "available": true
         },
         {
           "title": "cercle découverte",
           "content": [
-            "One starter, one second starter or one fish course, one main course, one dessert chosen from the Main Menu ( additional charge for cheeses) – All dishes are served in two versions"
+            "Une entrée, une deuxième entrée ou un poisson,  un plat, un dessert à choisir dans la carte (sélection de fromages en supplément) – Tous les plats sont servis en deux versions"
           ],
           "available": true
         },
         {
           "title": "cercle dégustation",
           "content": [
-            "This menu is served to the whole table and only on booking (minimum of 48h in advance). It offers seasonal dishes but also some exceptional products that need preparation. We will ask you to arrive at 12.15 or 7.45 pm because it is a moment of pleasure that lasts !"
+            "Ce menu est servi à l’ensemble de la table et uniquement sur réservation (48 h à l’avance minimum). Il est composé de plats du moment mais aussi de quelques produits d’exception qui demandent un peu d’anticipation. Nous vous demanderons d’être présents pour 12h15 ou 19h45 car c’est un moment de plaisir qui dure … !"
           ],
           "available": true
         },
         {
           "title": "menu cerceau",
           "content": [
-            "Starter : foie gras or marinated salmon, ½ dish and 1/2 dessert to choose from the Main Menu (or Selection of ice creams for the dessert)"
+            "Entrée foie gras ou saumon mariné, ½ plat et 1/2 dessert à choisir à la carte (ou une Assiette de glaces en dessert)"
           ],
           "available": true
         }
@@ -98,11 +98,12 @@
       "data": [
         {
           "content": [
-            "Our sommelier offers a selection of all regions of France and some foreign vineyards. In total it is more than 500 references to discover, including some old vintages. Do not hesitate to ask for personalized advice."
+            "Notre sommelier Stéphane Morand, vous propose une sélection de toutes les régions de France et de certains vignobles étrangers. Au total c’est plus de 500 références à découvrir, dont certains vieux millésimes. N’hésitez pas à le solliciter pour un conseil personnalisé."
           ]
         },
         {
-          "title": "wine list"
+          "title": "carte des vins",
+          "button": true
         }
       ]
     }

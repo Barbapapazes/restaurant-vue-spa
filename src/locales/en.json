@@ -103,7 +103,8 @@
           ]
         },
         {
-          "title": "wine list"
+          "title": "wine list",
+          "button": true
         }
       ]
     }
