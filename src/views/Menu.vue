@@ -106,11 +106,6 @@ export default {
         .urlsPictures('menu')
         .sort((a, b) => a.menu - b.menu)
     }
-  },
-  methods: {
-    forceUpdate() {
-      this.$forceUpdate()
-    }
   }
 }
 </script>

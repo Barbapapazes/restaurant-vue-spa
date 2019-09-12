@@ -5,7 +5,108 @@
       "content": "Notre restaurant gastronomique (1 étoile au guide Michelin), situé à quelques pas de la Cathédrale de Bourges, occupe une très belle maison bourgeoise de 1844, entourée de jardins, dans l’ancien quartier militaire du XIXe siècle.C’est dans cet environnement calme que nous aurons grand plaisir à vous accueillir. Nous avons voulu un cadre chaleureux, empreint d’une certaine modernité.  Ainsi, notre salle de restaurant, entièrement vitrée, vous offre une vue sur notre jardin. Deux salons confortables vous accueillent le temps d’un apéritif ou d’un café et un salon privé peut vous être réservé également pour la durée du repas.<br/>Aux beaux jours, vous pourrez profiter de votre repas servi en terrasse, dans le calme de notre jardin.<br/>Le Cercle, c’est avant tout une histoire d’amitié entre deux chefs, Pascal Chaupitre et Christophe Lot. Une convivialité que les chefs sauront vous transmettre à travers une cuisine gastronomique et inventive, pleine de surprises.<br/>Ainsi, soyez sûr que notre équipe sera toujours à votre écoute et aux petits soins afin que vous passiez le meilleur moment possible."
     }
   },
-  "menu": {},
+  "menu": {
+    "dishes": {
+      "data": [
+        {
+          "title": "nos entrées",
+          "content": [
+            "Foie gras cuit au sel, pommes de Saint-Martin – Raviole de foie gras, persil/pois chiches/sésame",
+            "Tomates Bio locales, chartreuse verte/vanille/mélisse – Focaccia frite, tomates confites/huile de thym citron",
+            "Grosse gambas grillée, taboulé de pain/fenouil/cardamome – Bisque glacée, gaspacho/courgettes"
+          ],
+          "available": true
+        },
+        {
+          "title": "nos poissons",
+          "content": [
+            "Rouget Barbet frits en écailles, betteraves/poivron/chorizo – Gravlax, cocos de Paimpol/vinaigrette aux foies",
+            "Lotte cuite sur l’arête, légumes primeurs/algues/citron confit – Joue de lotte à la citronnelle, lait de coco/roquette"
+          ],
+          "available": true
+        },
+        {
+          "title": "nos viandes",
+          "content": [
+            "Quasi de veau rôti, sauge/aubergines/jus amaretto – Rouelle de tête de veau, sauce tonnato/câpres",
+            "Porc fermier à l’estragon, gnocchis de pomme de terre/abricots – Burger, pain de banane/parmesan/pastèque"
+          ],
+          "available": true
+        },
+        {
+          "title": "Sélection de fromages affinés",
+          "available": true
+        },
+        {
+          "title": "nos desserts",
+          "content": [
+            "Fruits rouges à l’eau de tomate, sorbet bloody mary/basilic/cèleri – Framboises au jus de pomme, oseille/sabayon huile d’olive",
+            "Melon et pastèque, chimichurri/cacahuètes/épices douces – Pastèque au campari, feta/crumble au thym",
+            "Chocolat et menthe fraîche, pistaches/thé vert/meringue – Tapioca soufflé, lait/cacao/caramel"
+          ],
+          "available": true
+        }
+      ]
+    },
+    "menus": {
+      "data": [
+        {
+          "title": "menu club",
+          "content": [
+            "First course and second course or One course and Dessert (to choose in the « Initiation menu »). Every day for lunch, except Saturday and bank holidays."
+          ],
+          "available": true
+        },
+        {
+          "title": "cercle initiation",
+          "content": [
+            "One starter, one main course, one dessert chosen from the Main Menu ( additional charge for cheeses) – All dishes are served in one version only"
+          ],
+          "available": true
+        },
+        {
+          "title": "cercle gourmand",
+          "content": [
+            "One starter, one main course, one dessert chosen from the Main Menu ( additional charge for cheeses) – All dishes are served in two versions"
+          ],
+          "available": true
+        },
+        {
+          "title": "cercle découverte",
+          "content": [
+            "One starter, one second starter or one fish course, one main course, one dessert chosen from the Main Menu ( additional charge for cheeses) – All dishes are served in two versions"
+          ],
+          "available": true
+        },
+        {
+          "title": "cercle dégustation",
+          "content": [
+            "This menu is served to the whole table and only on booking (minimum of 48h in advance). It offers seasonal dishes but also some exceptional products that need preparation. We will ask you to arrive at 12.15 or 7.45 pm because it is a moment of pleasure that lasts !"
+          ],
+          "available": true
+        },
+        {
+          "title": "menu cerceau",
+          "content": [
+            "Starter : foie gras or marinated salmon, ½ dish and 1/2 dessert to choose from the Main Menu (or Selection of ice creams for the dessert)"
+          ],
+          "available": true
+        }
+      ]
+    },
+    "wines": {
+      "data": [
+        {
+          "content": [
+            "Our sommelier offers a selection of all regions of France and some foreign vineyards. In total it is more than 500 references to discover, including some old vintages. Do not hesitate to ask for personalized advice."
+          ]
+        },
+        {
+          "title": "wine list"
+        }
+      ]
+    }
+  },
   "contact": {
     "tel": {
       "text": "Tél du",
